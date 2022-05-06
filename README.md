@@ -38,3 +38,10 @@ Ponemos los subdominios deseados en el directorio de 'sites-available':
 Cambiamos las direcciones correspondientes:
 
 <img width="394" alt="0fce14b9c144e016851b81d14aa29ef1" src="https://user-images.githubusercontent.com/91744554/166524356-abb52871-a0be-4dd8-9927-00deabebfc5a.png">
+
+Una vez este paso completado, cambiamos el nombre de los juegos dentro de las carpetas a ''index.html'', borrando el anterior archivo con dicho nombre
+
+<img width="398" alt="f0653225e633fab6e21b6d514581690d" src="https://user-images.githubusercontent.com/91744554/167169467-b88104eb-e144-4aed-82e4-5d87d8834267.png">
+
+<img width="287" alt="20a18f2119958287c17ebf0f4d05f942" src="https://user-images.githubusercontent.com/91744554/167169637-909a6ee5-04ce-44ae-9375-4f3b0c251358.png">
+
