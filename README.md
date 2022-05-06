@@ -45,3 +45,8 @@ Una vez este paso completado, cambiamos el nombre de los juegos dentro de las ca
 
 <img width="287" alt="20a18f2119958287c17ebf0f4d05f942" src="https://user-images.githubusercontent.com/91744554/167169637-909a6ee5-04ce-44ae-9375-4f3b0c251358.png">
 
+Ahora copiaremos los dos archivos que tenemos en 'sites-available' en 'sites-enabled'
+
+<img width="381" alt="a1cd010db5c8cbe7966eb66d9c540bcf" src="https://user-images.githubusercontent.com/91744554/167171968-d25daba6-bfea-47e8-b1c4-c9bf8377e87f.png">
+
+
