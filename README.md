@@ -49,4 +49,14 @@ Ahora copiaremos los dos archivos que tenemos en 'sites-available' en 'sites-ena
 
 <img width="381" alt="a1cd010db5c8cbe7966eb66d9c540bcf" src="https://user-images.githubusercontent.com/91744554/167171968-d25daba6-bfea-47e8-b1c4-c9bf8377e87f.png">
 
+A continuación, añadiremos las dos direcciones en el directorio '/etc/hosts' 
 
+Una vez realizamos este paso, podemos comprobar que se visualiza en nuestro navegador:
+
+juego1:
+
+<img width="960" alt="2d93f3c4fd594ac533abdcf8bded0f17" src="https://user-images.githubusercontent.com/91744554/167182812-be7a04e9-79be-4181-8896-6139daef6469.png">
+
+juego2:
+
+<img width="960" alt="c012d92a911f6fb232a7bd8108e2a4ed" src="https://user-images.githubusercontent.com/91744554/167184200-4710737d-4881-4789-834d-de7293da4d43.png">
